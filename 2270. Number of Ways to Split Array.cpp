@@ -66,8 +66,8 @@
 class Solution {
 public:
     int waysToSplitArray(vector<int>& nums) {
-        int lSum=0;
-        int rSum=0;
+        long lSum=0;
+        long rSum=0;
         for(int num:nums){
             rSum+=num;
         }
