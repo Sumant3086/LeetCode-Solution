@@ -27,19 +27,42 @@
 // -10 <= nums[i] <= 10
 // All the numbers of nums are unique.
 
+// class Solution {
+// public:
+//     vector<vector<int>> subsets(vector<int>& nums) {
+//         int n=nums.size();
+//         int mask=1<<n;
+//         vector<vector<int>>powerSet(mask);
+//         for(int j=0;j<mask;j++){
+//             for(int i=0;i<n;i++){
+//                 if(j& 1<<i){
+//                     powerSet[j].push_back(nums[i]);
+//                 }
+//             }
+//         }
+//         return powerSet;
+//     }
+// };
+
+
 class Solution {
 public:
+    void generate(vector<int>& nums,int idx,vector<int>& curr,vector<vector<int>>& ans){
+        if(idx>=nums.size()){
+            ans.push_back(curr);
+            return ;
+        }
+        curr.push_back(nums[idx]);
+        generate(nums,idx+1,curr,ans);
+        curr.pop_back();
+        generate(nums,idx+1,curr,ans);
+
+    }
     vector<vector<int>> subsets(vector<int>& nums) {
         int n=nums.size();
-        int mask=1<<n;
-        vector<vector<int>>powerSet(mask);
-        for(int j=0;j<mask;j++){
-            for(int i=0;i<n;i++){
-                if(j& 1<<i){
-                    powerSet[j].push_back(nums[i]);
-                }
-            }
-        }
-        return powerSet;
+        vector<vector<int>>ans;
+        vector<int>curr;
+        generate(nums,0,curr,ans);
+        return ans;
     }
 };
