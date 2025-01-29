@@ -32,27 +32,38 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int n=nums.size();
-        int prev2=0;
-        int prev1=nums[0];
-        for(int i=1;i<n;i++){
-            int incl=prev2+nums[i];
-            int excl=prev1+0;
-            int ans=max(incl,excl);
-            prev2=prev1;
-            prev1=ans;
+        vector<int>dp(n,0);
+        if(n==0)return 0;
+        if(n==1)return nums[0];
+        int prev2=nums[0];
+        int prev=max(nums[0],nums[1]);
+        for(int i=2;i<n;i++){
+            int curr=max(prev,nums[i]+prev2);
+            // dp[i]=max(take,notTake);
+            prev2=prev;
+            prev=curr;
         }
-        return prev1;
-    }
-    int houseRobber(vector<int>& money){
-        int n=money.size();
-        if(n==1) return money[0];
-        vector<int>first,second;
-        for(int i=0;i<n;i++){
-            if(i!=n-1)
-                first.push_back(money[i]);
-            if(i!=0)
-                second.push_back(money[i]);
-        }
-        return max(rob(first),rob(second));
+        // return dp[n-1];
+        return prev;        
     }
 };
+
+// class Solution {
+// public:
+// int backTracking(int idx,vector<int>& nums,vector<int>& dp){
+//     if(idx>=nums.size()){
+//         return 0;
+//     }
+//     if(dp[idx]!=-1){
+//         return dp[idx];
+//     }
+//     int take=nums[idx]+backTracking(idx+2,nums,dp);
+//     int notTake=backTracking(idx+1,nums,dp);
+//     return dp[idx]=max(take,notTake);
+// }
+//     int rob(vector<int>& nums) {
+//         int n=nums.size();
+//         vector<int>dp(n,-1);
+//         return backTracking(0,nums,dp);
+//     }
+// };
