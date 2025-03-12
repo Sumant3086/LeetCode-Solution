@@ -36,18 +36,18 @@
 class Solution {
 public:
     int majorityElement(std::vector<int>& nums) {
-        int c=0;
-        int m=0;
-        for(int x:nums){
-            if(c==0){
-                m=x;
-                c=1;
-            }else if(x==m) {
-              c++;
+        int candidate=0;
+        int majority=0;
+        for(int i:nums){
+            if(candidate==0){
+                majority=i;
+                candidate=1;
+            }else if(i==m){
+                candidate++;
             }else{
-               c--;
+                candidate--;
             }
-        }
-        return m;
+        } 
+        return majority; 
     }
 };
