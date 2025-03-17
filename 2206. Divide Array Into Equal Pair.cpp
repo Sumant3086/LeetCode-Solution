@@ -70,7 +70,7 @@ class Solution {
         bool divideArray(vector<int>& nums) {
             vector<int>freq(501);
             for(int i:nums)freq[i]++;
-            for(int count:freq)if(count%2!=0)return false;
+            for(int count:freq)if(count%2)return false;
             return true;
         }
     };
