@@ -114,3 +114,42 @@ public:
 //         return maxL;
 //     }
 // };
+
+
+class Solution {
+public:
+    long long minimumDifference(vector<int>& nums) {
+        int n = nums.size() / 3;
+        vector<long long> leftSum(3 * n, 0), rightSum(3 * n + 1, 0);
+        
+        priority_queue<int> maxHeap;
+        long long left = 0;
+        for (int i = 0; i < 2 * n; ++i) {
+            left += nums[i];
+            maxHeap.push(nums[i]);
+            if (maxHeap.size() > n) {
+                left -= maxHeap.top();
+                maxHeap.pop();
+            }
+            if (maxHeap.size() == n) leftSum[i] = left;
+        }
+
+        priority_queue<int, vector<int>, greater<int>> minHeap;
+        long long right = 0;
+        for (int i = 3 * n - 1; i >= n; --i) {
+            right += nums[i];
+            minHeap.push(nums[i]);
+            if (minHeap.size() > n) {
+                right -= minHeap.top();
+                minHeap.pop();
+            }
+            if (minHeap.size() == n) rightSum[i] = right;
+        }
+
+        long long ans = LLONG_MAX;
+        for (int i = n - 1; i < 2 * n; ++i) {
+            ans = min(ans, leftSum[i] - rightSum[i + 1]);
+        }
+        return ans;
+    }
+};
