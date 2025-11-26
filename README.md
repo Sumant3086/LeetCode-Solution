@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 <!---LeetCode Topics End-->
