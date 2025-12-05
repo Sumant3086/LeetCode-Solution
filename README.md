@@ -58,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
+## String
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
