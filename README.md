@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0015-3sum) |
+| [0377-combination-sum-iv](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0377-combination-sum-iv) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0377-combination-sum-iv](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0377-combination-sum-iv) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
