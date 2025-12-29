@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0756-pyramid-transition-matrix](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0756-pyramid-transition-matrix](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [2211-count-collisions-on-a-road](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
 |  |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0015-3sum) |
+## Backtracking
+|  |
+| ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->
