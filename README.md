@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1590-make-sum-divisible-by-p) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0840-magic-squares-in-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Prefix Sum
@@ -68,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Search
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Greedy
 |  |
@@ -116,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
+## Union Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
