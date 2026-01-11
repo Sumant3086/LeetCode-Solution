@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0377-combination-sum-iv](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0377-combination-sum-iv) |
 | [0840-magic-squares-in-grid](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0377-combination-sum-iv](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0377-combination-sum-iv) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [2211-count-collisions-on-a-road](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
@@ -152,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
