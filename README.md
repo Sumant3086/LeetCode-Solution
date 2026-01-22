@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3583-count-special-triplets) |
 ## Bit Manipulation
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3583-count-special-triplets) |
 ## Math
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -195,4 +198,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3454-separate-squares-ii) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
