@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1390-four-divisors](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1895-largest-magic-square) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1266-minimum-time-visiting-all-points) |
+| [1390-four-divisors](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
