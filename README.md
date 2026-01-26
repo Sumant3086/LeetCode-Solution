@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0377-combination-sum-iv) |
 | [0840-magic-squares-in-grid](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1200-minimum-absolute-difference](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0015-3sum) |
+| [1200-minimum-absolute-difference](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1200-minimum-absolute-difference) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## String
