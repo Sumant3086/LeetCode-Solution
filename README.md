@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0015-3sum) |
 | [1200-minimum-absolute-difference](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1200-minimum-absolute-difference) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## String
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
 |  |
 | ------- |
