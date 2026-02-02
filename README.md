@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
