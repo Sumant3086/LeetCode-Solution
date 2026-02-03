@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [1975-maximum-matrix-sum](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sorting
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0015-3sum) |
 ## Backtracking
 |  |
