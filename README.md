@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3583-count-special-triplets) |
+| [3637-trionic-array-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3637-trionic-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
