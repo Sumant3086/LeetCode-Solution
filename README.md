@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0377-combination-sum-iv](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0377-combination-sum-iv) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0377-combination-sum-iv](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0377-combination-sum-iv) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [2211-count-collisions-on-a-road](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 ## Geometry
 |  |
