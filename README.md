@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3640-trionic-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3583-count-special-triplets](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3583-count-special-triplets) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Sweep Line
 |  |
 | ------- |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
