@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0756-pyramid-transition-matrix](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0840-magic-squares-in-grid](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1266-minimum-time-visiting-all-points) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [2211-count-collisions-on-a-road](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0067-add-binary) |
 | [2211-count-collisions-on-a-road](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
