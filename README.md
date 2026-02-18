@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0190-reverse-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
