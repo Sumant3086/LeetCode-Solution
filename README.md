@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0015-3sum) |
+| [0761-special-binary-string](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0761-special-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Stack
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
