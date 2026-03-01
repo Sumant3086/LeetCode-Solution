@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sorting
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2211-count-collisions-on-a-road](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Stack
