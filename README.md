@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Sumant3086/LeetCode-Solution/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2211-count-collisions-on-a-road) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Stack
