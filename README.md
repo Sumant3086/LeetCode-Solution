@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3640-trionic-array-ii) |
 ## Matrix
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/Sumant3086/LeetCode-Solution/tree/master/1895-largest-magic-square) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Sumant3086/LeetCode-Solution/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sumant3086/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
